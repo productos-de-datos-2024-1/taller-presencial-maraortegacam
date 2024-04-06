@@ -22,3 +22,5 @@
 2024-04-06 16:25:28,303:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
 2024-04-06 16:25:30,045:INFO:Prediction: [171805.74212195]
 2024-04-06 16:25:30,047:INFO:172.18.0.3 - - [06/Apr/2024 16:25:30] "POST / HTTP/1.1" 200 -
+2024-04-06 17:07:28,179:INFO:Finishing API server
+2024-04-06 17:07:28,499:INFO:Finishing API server
