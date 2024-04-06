@@ -9,3 +9,4 @@ assert os.path.exists("src/6a_api_client/app.py")
 
 # test run
 assert os.path.exists("datalake/logs/api_server.log")
+
